@@ -220,3 +220,6 @@ venv.bak/
 
 
 # End of https://www.gitignore.io/api/linux,macos,python,pycharm
+
+# custom
+travis-env
