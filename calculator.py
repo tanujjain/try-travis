@@ -7,3 +7,6 @@ class Calculator:
 
     def mysub(self, a, b):
         return a-b
+
+    def mymult(self, a, b):
+        return a*b
